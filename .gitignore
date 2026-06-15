@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#pickle file
+models/similarity.pkl
+models/vectorizer.pkl
