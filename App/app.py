@@ -4,10 +4,13 @@ import requests
 import joblib
 
 
-# Load files
-movies=joblib.load('../models/movies.pkl')
-similarity=joblib.load('../models/similarity.pkl')
+import os
+import joblib
 
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+movies = joblib.load(os.path.join(BASE_DIR, "models", "movies.pkl"))
+similarity = joblib.load(os.path.join(BASE_DIR, "models", "similarity.pkl"))
 #TMDB API key
 API_KEY = "46cb873181bc7ca2b7a33f4199b10ba2"
 
