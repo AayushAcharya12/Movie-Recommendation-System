@@ -22,21 +22,26 @@ TMDB API
 Joblib
 
 ### Demos
-![Demo First](screenshots/demo1.png)
+Demo1:![Demo First](screenshots/demo1.png)
 
 
-![Demo Second](screenshots/demo2.png)
+Demo2:![Demo Second](screenshots/demo2.png)
 
 
-![Selectbox](screenshots/demo3.png)
+Demo3:![Selectbox](screenshots/demo3.png)
 
 
 ### Future Improvements
 -> Collaborative Filtering Recommendation System
+
 -> Hybrid Recommendation System
+
 -> User Authentication
+
 -> Search by Actor or Genre
+
 -> Movie Ratings and Reviews
+
 
 ### To run locally on your device
 
