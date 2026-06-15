@@ -61,3 +61,6 @@ pip install -r requirements.txt
 
 streamlit run App/app.py
 
+### Live App Is Hosted In Streamlit Cloud
+
+-> Link="https://movie-recommendation-system-jpzceenwjcj8k2qozuhzfd.streamlit.app/"
