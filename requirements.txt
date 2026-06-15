@@ -5,3 +5,4 @@ nltk
 joblib
 os
 streamlit
+requests
