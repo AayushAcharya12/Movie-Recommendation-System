@@ -2,33 +2,6 @@
 
 A Content-Based Movie Recommendation System built using Python, Scikit-learn, and Streamlit. The system recommends movies similar to the selected movie based on their features such as genres, keywords, cast, crew, and overview. Movie posters are fetched dynamically using the TMDB API.
 
-### Project Structure
-
-CineMatch/
-│
-├── app/
-│   └── app.py                        #Main Streamlit application
-
-
-├── models/
-│   ├── movies.pkl                    # Preprocessed movie DataFrame
-
-│   └── similarity.pkl                # Cosine similarity matrix (can be large!)
-
-
-├── notebooks/
-│   └── movie_recommender.ipynb       # Data preprocessing & model building
-
-
-├── data/                             # Raw csv files
-│   ├── tmdb_5000_movies.csv
-│   └── tmdb_5000_credits.csv
-
-
-├── requirements.txt                  #  Python dependencies
-├── .env                              # Environment variable template
-├── .gitignore
-└── README.md
 
 ### Features
 
