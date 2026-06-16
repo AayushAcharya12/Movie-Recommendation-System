@@ -6,9 +6,13 @@ A Content-Based Movie Recommendation System built using Python, Scikit-learn, an
 ### Features
 
 -> Recommend movies based on content similarity.
+
 -> Interactive web interface using Streamlit.
+
 -> Displays movie posters using TMDB API.
+
 -> Fast recommendations using Cosine Similarity.
+
 -> User-friendly dropdown for movie selection.
 
 ### Tech Stack Used
